@@ -1,0 +1,17 @@
+# Assignment_1
+
+## Introduction to R
+
+*This is an opportunity to illustrate ability to utilise markdown within Rmarkdown*
+  
+**R**
+  
+>I can show you the code to print integers in r. 
+
+```{r quote}
+
+for (i in 1:10)
+print(i)
+```
+
+>Thank you for reading my markdown
